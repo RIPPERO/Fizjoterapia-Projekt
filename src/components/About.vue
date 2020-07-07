@@ -25,7 +25,7 @@
             <!-- Slide -->
             <transition name="slide" appear>
                 <div class="modal" v-if="showModal && message === '500'">
-                    <h2>Gratulacje! Udało Ci się zdobyć zniżkę w wyokości 20% na pierwszą wizytę!</h2>
+                    <h2>Gratulacje! Udało Ci się zdobyć zniżkę w wysokości 20% na pierwszą wizytę!</h2>
                     <button class="button" @click="showModal = false">Zamknij</button>
                 </div>
 
