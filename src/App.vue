@@ -26,7 +26,7 @@ export default {
   },
   metaInfo: {
     title: 'Fizjoterapia - Jan Kowalski',
-    titleTemplate: 'Fizjoterapia Łódź',
+    titleTemplate: 'Fizjoterapia - Jan Kowalski Łódź',
     htmlAttrs: {
       lang: 'pl',
       amp: true
