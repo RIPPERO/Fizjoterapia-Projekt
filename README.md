@@ -1,4 +1,4 @@
-# fizjov2
+# Fizjoterapia
 
 ## Project setup
 ```
