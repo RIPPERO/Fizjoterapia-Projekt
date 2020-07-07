@@ -16,5 +16,6 @@ export default {
     color: #fff;
     text-align: center;
     padding: 20px;
+    font-display: fallback;
   }
 </style>

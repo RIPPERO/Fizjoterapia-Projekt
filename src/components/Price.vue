@@ -165,7 +165,7 @@ export default {
     }
     .box {
         min-height: 200px;
-        min-width: 260px;
+        min-width: 270px;
     }
 
     .box-main {

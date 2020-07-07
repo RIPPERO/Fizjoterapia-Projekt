@@ -1,6 +1,9 @@
 import Vue from 'vue'
 import App from './App.vue'
 import * as VueGoogleMaps from 'vue2-google-maps'
+import VueMeta from 'vue-meta'
+
+Vue.use(VueMeta)
 
 Vue.use(VueGoogleMaps, {
   load: {

@@ -9,8 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "prerender-node": "^3.2.5",
     "vue": "^2.6.11",
     "vue-js-modal": "^2.0.0-rc.3",
+    "vue-meta": "^2.4.0",
     "vue-simple-alert": "^1.1.1",
     "vue2-google-maps": "^0.10.7"
   },
